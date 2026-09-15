@@ -5,6 +5,7 @@
 Tools used: Google Sheets, OpenAI `gpt-4o-mini`, Gmail, Python.  
 Run from terminal. No UI. No visual workflow builder.
 
+Loom Link = https://www.loom.com/share/c568bd6fa1194e44a2f8160822f563cc
 ---
 
 ## What This Builds
