@@ -1,0 +1,21 @@
+# Environment variables & API credentials (IMPORTANT: DO NOT COMMIT)
+.env
+credentials.json
+*.json.secret
+service_account.json
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Output drafts (generated files)
+output/draft_*.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
